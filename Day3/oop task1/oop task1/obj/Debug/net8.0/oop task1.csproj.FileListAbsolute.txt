@@ -1,0 +1,14 @@
+D:\back end\Bright future\Task1\oop task1\oop task1\bin\Debug\net8.0\oop task1.exe
+D:\back end\Bright future\Task1\oop task1\oop task1\bin\Debug\net8.0\oop task1.deps.json
+D:\back end\Bright future\Task1\oop task1\oop task1\bin\Debug\net8.0\oop task1.runtimeconfig.json
+D:\back end\Bright future\Task1\oop task1\oop task1\bin\Debug\net8.0\oop task1.dll
+D:\back end\Bright future\Task1\oop task1\oop task1\bin\Debug\net8.0\oop task1.pdb
+D:\back end\Bright future\Task1\oop task1\oop task1\obj\Debug\net8.0\oop task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\back end\Bright future\Task1\oop task1\oop task1\obj\Debug\net8.0\oop task1.AssemblyInfoInputs.cache
+D:\back end\Bright future\Task1\oop task1\oop task1\obj\Debug\net8.0\oop task1.AssemblyInfo.cs
+D:\back end\Bright future\Task1\oop task1\oop task1\obj\Debug\net8.0\oop task1.csproj.CoreCompileInputs.cache
+D:\back end\Bright future\Task1\oop task1\oop task1\obj\Debug\net8.0\oop task1.dll
+D:\back end\Bright future\Task1\oop task1\oop task1\obj\Debug\net8.0\refint\oop task1.dll
+D:\back end\Bright future\Task1\oop task1\oop task1\obj\Debug\net8.0\oop task1.pdb
+D:\back end\Bright future\Task1\oop task1\oop task1\obj\Debug\net8.0\oop task1.genruntimeconfig.cache
+D:\back end\Bright future\Task1\oop task1\oop task1\obj\Debug\net8.0\ref\oop task1.dll
