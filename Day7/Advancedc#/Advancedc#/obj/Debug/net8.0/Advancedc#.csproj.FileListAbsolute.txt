@@ -1,0 +1,14 @@
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\obj\Debug\net8.0\Advancedc#.GeneratedMSBuildEditorConfig.editorconfig
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\obj\Debug\net8.0\Advancedc#.AssemblyInfoInputs.cache
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\obj\Debug\net8.0\Advancedc#.AssemblyInfo.cs
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\obj\Debug\net8.0\Advancedc#.csproj.CoreCompileInputs.cache
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\bin\Debug\net8.0\Advancedc#.exe
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\bin\Debug\net8.0\Advancedc#.deps.json
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\bin\Debug\net8.0\Advancedc#.runtimeconfig.json
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\bin\Debug\net8.0\Advancedc#.dll
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\bin\Debug\net8.0\Advancedc#.pdb
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\obj\Debug\net8.0\Advancedc#.dll
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\obj\Debug\net8.0\refint\Advancedc#.dll
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\obj\Debug\net8.0\Advancedc#.pdb
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\obj\Debug\net8.0\Advancedc#.genruntimeconfig.cache
+D:\back end\Bright future\Task2\Advancedc#\Advancedc#\obj\Debug\net8.0\ref\Advancedc#.dll
